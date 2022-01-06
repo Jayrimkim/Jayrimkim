@@ -7,7 +7,7 @@ Jayrimkim/Jayrimkim is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>TECH SKILLS 🛠</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
