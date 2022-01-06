@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jayrimkim
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JAVA
 - 📫 contact me : jayrimkim@naver.com
 
 <!---
