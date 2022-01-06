@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=yellow&height=300&section=header&text=Jaerim Kim&fontSize=90" />
+
 - 👋 Hi, I’m @Jayrimkim
 - 🌱 I’m currently learning JAVA
 - 📫 contact me : jayrimkim@naver.com
